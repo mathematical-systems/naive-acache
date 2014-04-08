@@ -1,0 +1,2 @@
+Naive allegrocache emulator.
+Tested on sbcl, acl90 and lispworks6.
